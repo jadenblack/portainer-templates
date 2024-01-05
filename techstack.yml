@@ -2,7 +2,7 @@ repo_name: jadenblack/portainer-templates
 report_id: 72a350527568a5ce4f0430938a19d2fc
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T06:13:40+00:00'
+timestamp: '2024-01-05T08:22:56+00:00'
 requested_by: liss-bot
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/lib/requirements.txt
   detection_source: lib/requirements.txt
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 09:50:14.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -47,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/.github/workflows/build-template.yml
   detection_source: ".github/workflows/build-template.yml"
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 15:15:42.000000000 Z
@@ -67,6 +72,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/lib/requirements.txt
   detection_source: lib/requirements.txt
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 09:50:14.000000000 Z
@@ -78,6 +84,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/lib/requirements.txt
   detection_source: lib/requirements.txt
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 09:50:14.000000000 Z
@@ -90,6 +97,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19854/default_3fbfa1d88b4408e903227ac391490e8efb8dea58.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/lib/requirements.txt
   detection_source: lib/requirements.txt
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 12:06:38.000000000 Z
@@ -102,6 +110,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/jadenblack/portainer-templates/blob/main/lib/requirements.txt
   detection_source: lib/requirements.txt
   last_updated_by: Alicia Sykes
   last_updated_on: 2023-04-16 09:50:14.000000000 Z
